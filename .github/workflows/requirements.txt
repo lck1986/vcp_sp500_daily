@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+requests
+certifi
+openpyxl
+lxml
+html5lib
