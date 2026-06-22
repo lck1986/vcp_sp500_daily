@@ -3,6 +3,6 @@ numpy
 yfinance
 requests
 certifi
-openpyxl
 lxml
+openpyxl
 html5lib
