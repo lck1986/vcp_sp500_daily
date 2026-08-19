@@ -3,7 +3,7 @@
 Hybrid VCP Screener for S&P 500 — Enhanced Edition
 - Strict & Practical VCP with improved RS calculation
 - Market filter (SPY above 200‑day MA)
-- Volume liquidity threshold
+- Volume liquidity threshold 
 - Telegram message auto-splitting (≤4000 chars)
 - Centralised configuration
 - Fallback to CSV output if openpyxl is missing
